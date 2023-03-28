@@ -17,15 +17,15 @@ Front-end : Html5、CSS、jinja2 </br>
 - runtime.txt 
 - setup.py 
 - myapp 
- - view.py 
+  - view.py 
 - database 
- - database.py 
+  - database.py 
 - model 
- - model.py 
+  - model.py 
 - static 
- - css 
-  - style.css 
+  - css 
+   - style.css 
 -  templates 
- -  base.html 
- -  index.html 
- -  error.html 
+  -  base.html 
+  -  index.html 
+  -  error.html 
