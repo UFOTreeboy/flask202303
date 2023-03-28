@@ -24,8 +24,8 @@ Front-end : Html5、CSS、jinja2 </br>
   - model.py 
 - static 
   - css 
-   - style.css 
+    - style.css 
 -  templates 
-  -  base.html 
-  -  index.html 
-  -  error.html 
+   -  base.html 
+   -  index.html 
+   -  error.html 
