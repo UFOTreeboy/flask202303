@@ -13,20 +13,19 @@ Front-end : Html5、CSS、jinja2 </br>
 # 基礎架構
 
 /flask202303 </br>
-    requirements.txt </br>
-    runtime.txt </br>
-    setup.py </br>
-    /myapp </br>
-        _init_.py </br>
-        view.py </br>
-        /database </br>
-            database.py </br>
-        /model </br>
-            model.py </br>
-        /static </br>
-            /css </br>
-                style.css </br>
-        /templates </br>
-            base.html </br>
-            index.html </br>
-            error.html </br>
+    ├─requirements.txt </br>
+    ├─runtime.txt </br>
+    ├─setup.py </br>
+    ├─myapp </br>
+    │   └view.py </br>
+    ├─database </br>
+    │   └database.py </br>
+    ├─model </br>
+    │   └model.py </br>
+    ├─static </br>
+    │   └css </br>
+    │     └style.css </br>
+    └templates </br>
+        ├─base.html </br>
+        ├─index.html </br>
+        └error.html </br>
