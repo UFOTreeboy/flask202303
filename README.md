@@ -26,10 +26,12 @@ Front-end : Html5、CSS、jinja2 </br>
 - myapp 
   - init.py
   - api
+    - routes.py
     - templates
       - api
         - index.html
   - site
+    - routes.py
     - templates
       - site
         - index.html 
