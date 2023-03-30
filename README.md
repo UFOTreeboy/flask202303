@@ -25,16 +25,16 @@ Front-end : Html5、CSS、jinja2 </br>
 - setup.py 
 - myapp 
   - init.py
+  - model.py
+  - database.py
   - api
+    - init.py
     - routes.py
     - templates
       - api
         - index.html
-    - database
-      - database.py
-    - model
-      - model.py 
   - site
+    - init.py
     - routes.py
     - templates
       - site
