@@ -30,9 +30,15 @@ Front-end : Html5、CSS、jinja2 </br>
     - templates
       - api
         - index.html
+    - database
+      - database.py
+    - model
+      - model.py 
   - site
     - routes.py
     - templates
       - site
         - index.html 
 
+# 進度
+- 預訂新增資料庫連結(2023/3/30~)
